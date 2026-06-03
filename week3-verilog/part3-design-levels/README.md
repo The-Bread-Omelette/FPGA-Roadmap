@@ -108,4 +108,8 @@ D[7:0] ─┤  FF  ├─── Q[7:0]─┤  adder, mux,     ├── D ──
 The synthesizer takes this RTL description and maps it to LUTs (for combinational logic) and flip-flops — the actual resources inside an FPGA.
 
 
+> Please complete [hdlbits](https://hdlbits.01xz.net/wiki/Problem_sets) till the heading verification. Without practice, you can not consider yourself knowing verilog.
+     
+
+
 **Next:** [Part 4 — Simulation with iverilog & GTKWave](../part4-simulation/README.md)

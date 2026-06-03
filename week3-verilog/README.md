@@ -17,6 +17,8 @@ Two HDLs dominate the industry:
 
 This course uses **Verilog** (specifically SystemVerilog for some modern constructs). It is the dominant language in industry for FPGA and ASIC design.
 
+- You can practice writing verilog in [hdlbits](https://hdlbits.01xz.net/wiki/Problem_sets).
+
 ---
 
 ## Parts

@@ -1,6 +1,6 @@
 # Part 2 — Verilog Syntax & Basics
 
-> Verilog has a small core vocabulary. Master these, and you can describe any digital circuit.
+> Verilog has a small core vocabulary. Master these, and you can describe any digital circuit. This module is gonna take some time!
 
 ---
 
@@ -408,6 +408,10 @@ Write all of these in Verilog. Save each as a `.v` file.
 4. **4-to-1 MUX**: Using a case statement
 5. **Parameterized N-bit shift register**: Shifts right on each clock cycle
 6. **Gray code counter**: A 4-bit counter that outputs in Gray code (hint: `gray = binary ^ (binary >> 1)`)
+
+> Please complete [hdlbits](https://hdlbits.01xz.net/wiki/Problem_sets) until the heading more circuits. Without practice, you can not consider yourself knowing verilog.
+     
+
 
 ---
 

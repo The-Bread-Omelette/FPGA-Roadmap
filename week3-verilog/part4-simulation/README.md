@@ -273,6 +273,9 @@ These will cost you hours if you are not aware of them:
 4. Write a testbench for an **8-bit shift register** — load 8'hA5 and shift 8 times, check output each cycle
 5. Write a testbench for a **sequence detector** (from Week 2) — apply the sequence "1011" embedded in a longer stream and verify detection
 
+> Please complete [hdlbits](https://hdlbits.01xz.net/wiki/Problem_sets) full problem set. Without practice, you can not consider yourself knowing verilog.
+     
+
 ---
 
 **Next:** [Part 5 — Verilog Traps, Inference Rules & Everything the Synthesizer Does](../part5-verilog-traps-deep/README.md )
